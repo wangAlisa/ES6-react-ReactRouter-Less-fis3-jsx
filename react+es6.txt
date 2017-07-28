@@ -1,0 +1,9 @@
+移动端新闻项目
+技术架构：ES6， React， ReactRouter， Less， fis3，jsx
+目录部署
+Css：所有样式文件
+Data：异步解构
+Img：图片文件
+Js：项目脚本文件
+Fis-conf.js配置文件
+Index.html 入口文件
